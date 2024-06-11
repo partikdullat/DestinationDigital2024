@@ -8,7 +8,7 @@ In this repository you will find:
 **Environment Set-Up.pdf**
 This gives you step by step instructions on how to access all the tools & descriptions and links to learn more about each. 
 
-**Conversational Search with a pre-defined index in watsonx Discovery and watsonx Orchestrate**
+**Configure built-in conversational search using the Granite LLM in watsonx.ai and Elasticsearch.pdf**
 This lab includes instructions on using watsonx Discovery (i.e., Elasticsearch) and watsonx Orchestrate to build a RAG solution. 
 
 **Lab on Orchestrate**
